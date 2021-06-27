@@ -2,7 +2,7 @@
   
 <h1 align="center">Ema Games Project</h1>
   
-<img src="https://codingburgas-my.sharepoint.com/personal/kalalev18_codingburgas_bg/_layouts/15/onedrive.aspx?sortField=Modified&isAscending=false&id=%2Fpersonal%2Fkalalev18%5Fcodingburgas%5Fbg%2FDocuments%2F209647572%5F1247731242307533%5F803229603717235444%5Fn%2Epng&parent=%2Fpersonal%2Fkalalev18%5Fcodingburgas%5Fbg%2FDocuments" width="350" height="350">  
+<img src="https://codingburgas-my.sharepoint.com/:i:/g/personal/kalalev18_codingburgas_bg/ETtBc2unT9VNg1IraQg1DaEBoV8VQa1PtobeeZMAifsaTA?e=Hv9lh4" width="350" height="350">  
   
 </p>
 <br>
