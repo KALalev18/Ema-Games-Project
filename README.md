@@ -19,7 +19,7 @@ This game is about people that has a particular problem (like autism or they are
 
 ## Our Team
 
--   Kristian Lalev - Scrum trainer
+-   Kristian Lalev - Scrum Trainer
 -   Kaloyan Dimov - Developer Back-End
 -   Ivan Nazarenko - Developer Front-End
 -   Elena Keserdzieva - Developer Front-End
