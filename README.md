@@ -28,9 +28,9 @@ This game is about people that has a particular problem (like autism or they are
 
 ## Documentation and Presentation
 <br>
-<a href = https://codingburgas-my.sharepoint.com/:w:/r/personal/kalalev18_codingburgas_bg/_layouts/15/Doc.aspx?sourcedoc=%7B9C967833-14FC-4195-9057-40773E448F30%7D&file=Doc%20About%20the%20Game.docx&action=default&mobileredirect=true&cid=774b13b7-f52d-49e6-aa7c-03ba746b35fa> • Documentation</a>
+<a href = https://codingburgas-my.sharepoint.com/:w:/r/personal/kalalev18_codingburgas_bg/_layouts/15/Doc.aspx?sourcedoc=%7B9A83B4DD-6EC8-4FE4-90F7-BAB126660863%7D&file=Doc%20About%20the%20Game-FORREAL.docx&action=default&mobileredirect=true> • Documentation</a>
 <br>
-<a href = https://codingburgas-my.sharepoint.com/:p:/r/personal/kalalev18_codingburgas_bg/_layouts/15/Doc.aspx?sourcedoc=%7BA12DB2FE-1C07-428C-8DAE-57A3AEE66C20%7D&file=Da%20Ema%20Games%20Presentation.BG.pptx&action=edit&mobileredirect=true> • Presentation</a>
+<a href = https://codingburgas-my.sharepoint.com/:p:/r/personal/kalalev18_codingburgas_bg/_layouts/15/Doc.aspx?sourcedoc=%7BCE49B6A8-D550-4487-ACC5-8C562C1BD406%7D&file=Da%20Ema%20Games%20Presentation%20FOR%20REAL.BG.pptx&action=edit&mobileredirect=true> • Presentation</a>
 <br>
 <br>
 
